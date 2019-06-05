@@ -1,0 +1,26 @@
+{
+  "DVTSourceControlWorkspaceBlueprintLocationsKey" : {
+    "53A38C8CA713C20D75CBA0117EEC046369132929" : {
+      "DVTSourceControlBranchIdentifierKey" : "master",
+      "DVTSourceControlLocationRevisionKey" : "9d72e3100c50125bcc5daafb50b3f322c7aefa66",
+      "DVTSourceControlBranchOptionsKey" : 4,
+      "DVTSourceControlBranchRemoteNameKey" : "origin",
+      "DVTSourceControlWorkspaceBlueprintLocationTypeKey" : "DVTSourceControlBranch"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "53A38C8CA713C20D75CBA0117EEC046369132929",
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "48B2FCFC-3742-4998-B7A7-20D96FC239A9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "53A38C8CA713C20D75CBA0117EEC046369132929" : "SpeechCollection\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SpeechCollection",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/SpeechCollection.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/phanmduong\/speech-collection.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "53A38C8CA713C20D75CBA0117EEC046369132929"
+    }
+  ]
+}
