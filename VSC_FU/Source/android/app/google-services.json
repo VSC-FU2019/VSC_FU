@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "243375426321",
+    "firebase_url": "https://speechcollection-c23d7.firebaseio.com",
+    "project_id": "speechcollection-c23d7",
+    "storage_bucket": "speechcollection-c23d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243375426321:android:942a2be409b38f9b",
+        "android_client_info": {
+          "package_name": "com.casptoneproject.app.speechcollection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243375426321-p4uvjmqptjli7hc3nlsrjohid7f34e23.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.casptoneproject.app.speechcollection",
+            "certificate_hash": "24a205a3fa87176b0766de64cb9f7b986be468f0"
+          }
+        },
+        {
+          "client_id": "243375426321-17r080t4g388duct1l4l54g2j79pocpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.casptoneproject.app.speechcollection",
+            "certificate_hash": "ae19f876fea6c1975b6b0f7178825b02bad33937"
+          }
+        },
+        {
+          "client_id": "243375426321-eoeq16hhsic4suc3avuu9rb19clmkm3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.casptoneproject.app.speechcollection",
+            "certificate_hash": "91362cd4d9be924f2725af1b0ebffa0b2dde88da"
+          }
+        },
+        {
+          "client_id": "243375426321-mgihdb142g03sf8n3374ukd0o1ssc29r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSy9s2iiqz8rnlF1yQpTu6pjvX1EGgEYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243375426321-mgihdb142g03sf8n3374ukd0o1ssc29r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "243375426321-mr7opkvmedb1n12g7k5s6ak06ofl7pnp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.casptoneproject.app.SpeechCollection"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
