@@ -14,7 +14,7 @@
     "react": "16.8.3",
     "react-native": "0.59.3",
     "react-native-audio": "^4.3.0",
-    "react-native-code-push": "^5.6.0",
+    "react-native-code-push": "^5.7.0",
     "react-native-easy-toast": "^1.2.0",
     "react-native-firebase": "^5.3.1",
     "react-native-fs": "^2.13.3",
